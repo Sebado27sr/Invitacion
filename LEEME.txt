@@ -1,0 +1,18 @@
+INVITACIÓN PARA EL JUEVES 19 ✨
+
+Cómo usarla:
+1. Abre el archivo index.html con cualquier navegador.
+2. Prueba el botón «No» (se escapa) y el «¡SÍ, CLARO!».
+3. Cuando diga que sí, verás la página de agradecimiento con los memes de gatitos.
+4. Pulsa «🖨️ Imprimir invitación» para imprimir la tarjetita con espacio para firma.
+
+Extras:
+• Cuenta atrás hasta el jueves 19
+• Animaciones CSS avanzadas (corazones, latido, sparkles, entradas…)
+• 8 memes reales de gatitos que enviaste
+• Versión lista para imprimir
+
+Para compartir:
+Sube TODA la carpeta (index.html + carpeta assets) a Netlify Drop → https://app.netlify.com/drop
+
+¡Que diga que sí! 💖
